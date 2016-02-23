@@ -17,4 +17,10 @@ In fact, if you can read German, you could check the article out [here](http://o
 Anyway, the point is that this is the kind of image which will come out of this experiment. The files in this repository will ultimately make plots for any two signals read into a serial port, but my discussion will mainly revolve around doing so for a Franck-Hertz experiment.
 
 ## Workings of the code
+### On the Arduino
 
+### On the PC
+
+## Circuit set up
+
+![Arduino picture](arduino_sketch_bb.png)
