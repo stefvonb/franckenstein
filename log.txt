@@ -1,7 +1,0 @@
-24/02/2016 16:00:23 - Franckenstein v1.0 started
-24/02/2016 16:00:31 - Attempting to connect to serial /dev/ttyACM0
-24/02/2016 16:00:31 - Connection successful
-24/02/2016 16:06:47 - Attempting to connect to serial /dev/ttyS23
-24/02/2016 16:06:47 - Error finding serial
-24/02/2016 16:06:51 - Attempting to connect to serial /dev/ttyACM0
-24/02/2016 16:06:51 - Connection successful
